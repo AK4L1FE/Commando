@@ -148,4 +148,4 @@ client.registry
 	.registerTypesIn(path.join(__dirname, 'types'))
 	.registerCommandsIn(path.join(__dirname, 'commands'));
 
-client.login(TOKEN);
+client.login('NDM5ODQ3ODUyNTM4MDY5MDAz.DdeAoQ.0ZJwUhriWyMGi-nZTdTAeRftKVs');
