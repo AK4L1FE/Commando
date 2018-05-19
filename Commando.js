@@ -8,7 +8,7 @@ const { OWNERS, COMMAND_PREFIX, TOKEN } = process.env;
 
 const CommandoClient = require('./structures/CommandoClient');
 const client = new CommandoClient({
-	owner: OWNERS.split(','),
+	owner: OWNERS.split('309081957604786176'),
 	commandPrefix: COMMAND_PREFIX,
 	unknownCommandResponse: false,
 	disableEveryone: true
